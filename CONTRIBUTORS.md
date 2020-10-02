@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Shubhanshu Sahu](https://github.com/ayush163)
+- Place: Jabalpur , India
+- Bio: Learner, Programmer
+- GitHub: [shubhanshusahu](https://github.com/shubhanshusahu)
